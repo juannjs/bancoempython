@@ -1,5 +1,5 @@
 entrada = 1
-contas = [0, 500, 500]
+contas = [500, 500, 500]
 
 def senhas (senha):
     if senha == 111:
